@@ -1,0 +1,23 @@
+[
+  {
+    "line_number": 90,
+    "section": "광고",
+    "kind": "table",
+    "label": "표 8.1",
+    "title": "광고 데이터"
+  },
+  {
+    "line_number": 99,
+    "section": "사용자",
+    "kind": "table",
+    "label": "표 8.2",
+    "title": "사용자 데이터 스키마"
+  },
+  {
+    "line_number": 113,
+    "section": "사용자-광고 상호작용",
+    "kind": "table",
+    "label": "표 8.3",
+    "title": "사용자-광고 상호작용 데이터"
+  }
+]

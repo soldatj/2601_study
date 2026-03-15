@@ -1,0 +1,20 @@
+line_number,section,kind,label,title
+10,소개,figure,그림 8.1,사용자 타임라인에 게재되는 광고주의 광고
+62,시스템의 입력 및 출력 지정,figure,그림 8.2,광고 클릭 예측 시스템의 입력 및 출력
+68,적합한 머신러닝 유형 선택,figure,그림 8.3,이진 분류 모델의 입력-출력
+90,광고,table,표 8.1,광고 데이터
+99,사용자,table,표 8.2,사용자 데이터 스키마
+113,사용자-광고 상호작용,table,표 8.3,사용자-광고 상호작용 데이터
+179,사용자의 과거 상호작용(engagement) 통계,figure,그림 8.5,사용자 메타데이터 및 상호작용을 위한 피처 준비
+223,피처 크로스는 어떻게 만드나?,figure,그림 8.6,국가와 언어라는 두 가지 피처의 교차점
+232,피처 크로싱 + 로지스틱 회귀는 어떻게 사용하나?,figure,그림 8.7,원본 피처에서 수행된 피처 크로싱
+272,피처 추출에 GBDT 사용,figure,그림 8.8,피처 추출에 GBDT 사용
+276,피처 추출에 GBDT 사용,figure,그림 8.9,GBDT + 로지스틱 회귀 개요
+297,신경망,figure,그림 8.10,신경망 아키텍처
+301,신경망,figure,그림 8.11,임베딩 기반 신경망
+320,DCN(Deep & Cross Network),figure,그림 8.12,DCN 아키텍처
+340,Factorization Machines(FM),figure,그림 8.13,행렬 인수분해 아키텍처
+350,DeepFM(Deep Factorization Machines),figure,그림 8.14,DeepFM 개요
+370,데이터세트 구성,figure,그림 8.15,구축된 데이터세트
+411,NCE(normalized cross-entropy),figure,그림 8.17,모델 A에 대한 NCE 계산
+452,서빙,figure,그림 8.18,머신러닝 시스템 설계

@@ -1,0 +1,21 @@
+# Caption Index
+
+- line 10 | 그림 8.1 | kind=figure | section=소개 | 사용자 타임라인에 게재되는 광고주의 광고
+- line 62 | 그림 8.2 | kind=figure | section=시스템의 입력 및 출력 지정 | 광고 클릭 예측 시스템의 입력 및 출력
+- line 68 | 그림 8.3 | kind=figure | section=적합한 머신러닝 유형 선택 | 이진 분류 모델의 입력-출력
+- line 90 | 표 8.1 | kind=table | section=광고 | 광고 데이터
+- line 99 | 표 8.2 | kind=table | section=사용자 | 사용자 데이터 스키마
+- line 113 | 표 8.3 | kind=table | section=사용자-광고 상호작용 | 사용자-광고 상호작용 데이터
+- line 179 | 그림 8.5 | kind=figure | section=사용자의 과거 상호작용(engagement) 통계 | 사용자 메타데이터 및 상호작용을 위한 피처 준비
+- line 223 | 그림 8.6 | kind=figure | section=피처 크로스는 어떻게 만드나? | 국가와 언어라는 두 가지 피처의 교차점
+- line 232 | 그림 8.7 | kind=figure | section=피처 크로싱 + 로지스틱 회귀는 어떻게 사용하나? | 원본 피처에서 수행된 피처 크로싱
+- line 272 | 그림 8.8 | kind=figure | section=피처 추출에 GBDT 사용 | 피처 추출에 GBDT 사용
+- line 276 | 그림 8.9 | kind=figure | section=피처 추출에 GBDT 사용 | GBDT + 로지스틱 회귀 개요
+- line 297 | 그림 8.10 | kind=figure | section=신경망 | 신경망 아키텍처
+- line 301 | 그림 8.11 | kind=figure | section=신경망 | 임베딩 기반 신경망
+- line 320 | 그림 8.12 | kind=figure | section=DCN(Deep & Cross Network) | DCN 아키텍처
+- line 340 | 그림 8.13 | kind=figure | section=Factorization Machines(FM) | 행렬 인수분해 아키텍처
+- line 350 | 그림 8.14 | kind=figure | section=DeepFM(Deep Factorization Machines) | DeepFM 개요
+- line 370 | 그림 8.15 | kind=figure | section=데이터세트 구성 | 구축된 데이터세트
+- line 411 | 그림 8.17 | kind=figure | section=NCE(normalized cross-entropy) | 모델 A에 대한 NCE 계산
+- line 452 | 그림 8.18 | kind=figure | section=서빙 | 머신러닝 시스템 설계

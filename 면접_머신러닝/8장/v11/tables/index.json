@@ -1,0 +1,79 @@
+[
+  {
+    "index": 1,
+    "kind": "data",
+    "section": "광고",
+    "start_line": 84,
+    "end_line": 88,
+    "columns": [
+      "광고 ID",
+      "광고주 ID",
+      "광고 그룹 ID",
+      "캠페인 ID",
+      "범주",
+      "하위 범주",
+      "이미지 또는 동영상(URL 예시)"
+    ],
+    "row_count": 3,
+    "markdown": "exports/v11/tables/table-001.md",
+    "csv": "exports/v11/tables/table-001.csv",
+    "html": "exports/v11/tables/table-001.html"
+  },
+  {
+    "index": 2,
+    "kind": "schema_only",
+    "section": "사용자",
+    "start_line": 96,
+    "end_line": 97,
+    "columns": [
+      "ID",
+      "Username",
+      "Age",
+      "Gender",
+      "City",
+      "Country",
+      "Language",
+      "Time zone"
+    ],
+    "row_count": 0,
+    "markdown": "exports/v11/tables/table-002.md",
+    "csv": "exports/v11/tables/table-002.csv",
+    "html": "exports/v11/tables/table-002.html"
+  },
+  {
+    "index": 3,
+    "kind": "data",
+    "section": "사용자-광고 상호작용",
+    "start_line": 105,
+    "end_line": 111,
+    "columns": [
+      "사용자 ID",
+      "광고 ID",
+      "상호작용 유형",
+      "체류 시간 <sup>1</sup>",
+      "위치(위도, 경도)",
+      "타임스탬프"
+    ],
+    "row_count": 4,
+    "markdown": "exports/v11/tables/table-003.md",
+    "csv": "exports/v11/tables/table-003.csv",
+    "html": "exports/v11/tables/table-003.html"
+  },
+  {
+    "index": 4,
+    "kind": "data",
+    "section": "데이터세트 구성",
+    "start_line": 365,
+    "end_line": 368,
+    "columns": [
+      "#",
+      "사용자 및 상호작용 피처",
+      "광고 피처",
+      "라벨"
+    ],
+    "row_count": 2,
+    "markdown": "exports/v11/tables/table-004.md",
+    "csv": "exports/v11/tables/table-004.csv",
+    "html": "exports/v11/tables/table-004.html"
+  }
+]

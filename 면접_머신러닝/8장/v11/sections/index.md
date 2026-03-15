@@ -1,0 +1,62 @@
+# Section Index
+
+- 8장 | headings=1 | tables=0 | captions=0 | equations=0 | references=0
+- CTR | headings=1 | tables=0 | captions=0 | equations=0 | references=0
+- DCN(Deep & Cross Network) | headings=1 | tables=0 | captions=1 | equations=0 | references=0
+- DeepFM(Deep Factorization Machines) | headings=1 | tables=0 | captions=1 | equations=0 | references=0
+- Factorization Machines(FM) | headings=1 | tables=0 | captions=1 | equations=2 | references=0
+- GBDT + 로지스틱 회귀 | headings=1 | tables=0 | captions=0 | equations=0 | references=0
+- ID | headings=1 | tables=0 | captions=0 | equations=0 | references=0
+- NCE(normalized cross-entropy) | headings=1 | tables=0 | captions=1 | equations=1 | references=0
+- 광고 | headings=1 | tables=1 | captions=1 | equations=0 | references=0
+- 광고 범주 및 하위 범주 | headings=1 | tables=0 | captions=0 | equations=0 | references=0
+- 광고 피처 | headings=1 | tables=0 | captions=0 | equations=0 | references=0
+- 그레디언트 부스트 결정 트리(GBDT) | headings=1 | tables=0 | captions=0 | equations=0 | references=0
+- 노출수 및 클릭 수 | headings=1 | tables=0 | captions=0 | equations=0 | references=0
+- 단점 | headings=2 | tables=0 | captions=0 | equations=0 | references=0
+- 데이터 엔지니어링 | headings=1 | tables=0 | captions=0 | equations=0 | references=0
+- 데이터 준비 | headings=1 | tables=0 | captions=0 | equations=0 | references=0
+- 데이터 준비 파이프라인 | headings=1 | tables=0 | captions=0 | equations=0 | references=0
+- 데이터세트 구성 | headings=1 | tables=1 | captions=1 | equations=0 | references=0
+- 로지스틱 회귀 | headings=1 | tables=0 | captions=0 | equations=0 | references=0
+- 머신러닝 목표 정의 | headings=1 | tables=0 | captions=0 | equations=0 | references=0
+- 머신러닝 작업으로 문제를 구조화 | headings=1 | tables=0 | captions=0 | equations=0 | references=0
+- 모델 개발 | headings=1 | tables=0 | captions=0 | equations=0 | references=0
+- 모델 선택 | headings=1 | tables=0 | captions=0 | equations=0 | references=0
+- 모델 훈련 | headings=1 | tables=0 | captions=0 | equations=0 | references=0
+- 배치 피처 계산 | headings=1 | tables=0 | captions=0 | equations=0 | references=0
+- 사용자 | headings=1 | tables=1 | captions=1 | equations=0 | references=0
+- 사용자 피처 | headings=1 | tables=0 | captions=0 | equations=0 | references=0
+- 사용자-광고 상호작용 | headings=1 | tables=1 | captions=1 | equations=0 | references=0
+- 사용자의 과거 상호작용(engagement) 통계 | headings=1 | tables=0 | captions=1 | equations=0 | references=0
+- 서빙 | headings=1 | tables=0 | captions=1 | equations=0 | references=0
+- 소개 | headings=1 | tables=0 | captions=1 | equations=0 | references=0
+- 소셜 플랫폼 광고 클릭 예측 | headings=1 | tables=0 | captions=0 | equations=0 | references=0
+- 손실 함수 선택 | headings=1 | tables=0 | captions=0 | equations=0 | references=0
+- 수익 증가율 | headings=1 | tables=0 | captions=0 | equations=0 | references=0
+- 숨기기 비율 | headings=1 | tables=0 | captions=0 | equations=0 | references=0
+- 시스템의 입력 및 출력 지정 | headings=1 | tables=0 | captions=1 | equations=0 | references=0
+- 신경망 | headings=1 | tables=0 | captions=2 | equations=0 | references=0
+- 예측 파이프라인 | headings=1 | tables=0 | captions=0 | equations=0 | references=0
+- 오프라인 지표 | headings=1 | tables=0 | captions=0 | equations=0 | references=0
+- 온라인 지표 | headings=1 | tables=0 | captions=0 | equations=0 | references=0
+- 온라인 피처 계산 | headings=1 | tables=0 | captions=0 | equations=0 | references=0
+- 요구사항 명확화 | headings=1 | tables=0 | captions=0 | equations=0 | references=0
+- 요약 | headings=1 | tables=0 | captions=0 | equations=0 | references=0
+- 이미지/동영상 | headings=1 | tables=0 | captions=0 | equations=0 | references=0
+- 장점 | headings=2 | tables=0 | captions=0 | equations=0 | references=0
+- 적합한 머신러닝 유형 선택 | headings=1 | tables=0 | captions=1 | equations=0 | references=0
+- 전환율 | headings=1 | tables=0 | captions=0 | equations=0 | references=0
+- 지속적인 학습 파이프라인 | headings=1 | tables=0 | captions=0 | equations=0 | references=0
+- 참고 문헌 | headings=1 | tables=0 | captions=0 | equations=0 | references=16
+- 추가 논의 주제 | headings=1 | tables=0 | captions=0 | equations=0 | references=0
+- 크로스 엔트로피(CE) | headings=1 | tables=0 | captions=0 | equations=2 | references=0
+- 클릭한 광고 | headings=1 | tables=0 | captions=0 | equations=0 | references=0
+- 평가 | headings=1 | tables=0 | captions=0 | equations=0 | references=0
+- 피처 선택에 GBDT 사용 | headings=1 | tables=0 | captions=0 | equations=0 | references=0
+- 피처 엔지니어링 | headings=1 | tables=0 | captions=0 | equations=0 | references=0
+- 피처 추출에 GBDT 사용 | headings=1 | tables=0 | captions=2 | equations=0 | references=0
+- 피처 크로스는 어떻게 만드나? | headings=1 | tables=0 | captions=1 | equations=0 | references=0
+- 피처 크로싱 + 로지스틱 회귀 | headings=1 | tables=0 | captions=0 | equations=0 | references=0
+- 피처 크로싱 + 로지스틱 회귀는 어떻게 사용하나? | headings=1 | tables=0 | captions=1 | equations=0 | references=0
+- 피처 크로싱이란 무엇인가? | headings=1 | tables=0 | captions=0 | equations=0 | references=0

@@ -1,0 +1,17 @@
+index,line_number,section,text,url
+1,501,참고 문헌,"Addressing delayed feedback, https://arxiv.org/pdf/1907.06558.pdf",https://arxiv.org/pdf/1907.06558.pdf
+2,502,참고 문헌,"AdTech basics, https://advertising.amazon.com/library/guides/what-is-adtech",https://advertising.amazon.com/library/guides/what-is-adtech
+3,503,참고 문헌,"SimCLR paper, https://arxiv.org/pdf/2002.05709.pdf",https://arxiv.org/pdf/2002.05709.pdf
+4,504,참고 문헌,"Feature crossing, https://developers.google.com/machine-learning/crashcourse/feature-crosses/video-lecture",https://developers.google.com/machine-learning/crashcourse/feature-crosses/video-lecture
+5,505,참고 문헌,"Feature extraction with GBDT, https://towardsdatascience.com/featuregeneration-with-gradient-boosted-decision-trees-21d4946d6ab5",https://towardsdatascience.com/featuregeneration-with-gradient-boosted-decision-trees-21d4946d6ab5
+6,506,참고 문헌,"DCN paper, https://arxiv.org/pdf/1708.05123.pdf",https://arxiv.org/pdf/1708.05123.pdf
+7,507,참고 문헌,"DCN V2 paper, https://arxiv.org/pdf/2008.13535.pdf",https://arxiv.org/pdf/2008.13535.pdf
+8,508,참고 문헌,"Microsoft's deep crossing network paper, https://www.kdd.org/kdd2016/papers/files/adf0975-shanA.pdf",https://www.kdd.org/kdd2016/papers/files/adf0975-shanA.pdf
+9,509,참고 문헌,"Factorization Machines, https://www.jefkine.com/recsys/2017/03/27/factorization-machines/",https://www.jefkine.com/recsys/2017/03/27/factorization-machines/
+10,510,참고 문헌,"Deep Factorization Machines, https://d2l.ai/chapter\_recommender-systems/deepfm.html",https://d2l.ai/chapter_recommender-systems/deepfm.html
+11,511,참고 문헌,"Kaggle's winning solution in ad click prediction, https://www.youtube.com/watch?v=4Go5crRVyuU",https://www.youtube.com/watch?v=4Go5crRVyuU
+12,512,참고 문헌,"Data leakage in ML systems, https://machinelearningmastery.com/dataleakage-machine-learning/",https://machinelearningmastery.com/dataleakage-machine-learning/
+13,513,참고 문헌,"Time-based dataset splitting, https://www.linkedin.com/pulse/time-based-splitting-determining-train-test-data-come-manraj-chalokia/?trk=public\_profile\_article\_view",https://www.linkedin.com/pulse/time-based-splitting-determining-train-test-data-come-manraj-chalokia/?trk=public_profile_article_view
+14,514,참고 문헌,"Model calibration, https://machinelearningmastery.com/calibrated-classification-model-in-scikit-learn/",https://machinelearningmastery.com/calibrated-classification-model-in-scikit-learn/
+15,515,참고 문헌,"Field-aware Factorization Machines, https://www.csie.ntu.edu.tw/~cjlin/papers/ffm.pdf",https://www.csie.ntu.edu.tw/~cjlin/papers/ffm.pdf
+16,516,참고 문헌,"Catastrophic forgetting problem in continual learning, https://www.cs.uic.edu/~liub/lifelong-learning/continual-learning.pdf",https://www.cs.uic.edu/~liub/lifelong-learning/continual-learning.pdf

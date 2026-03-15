@@ -1,0 +1,135 @@
+[
+  {
+    "line_number": 10,
+    "section": "소개",
+    "kind": "figure",
+    "label": "그림 8.1",
+    "title": "사용자 타임라인에 게재되는 광고주의 광고"
+  },
+  {
+    "line_number": 62,
+    "section": "시스템의 입력 및 출력 지정",
+    "kind": "figure",
+    "label": "그림 8.2",
+    "title": "광고 클릭 예측 시스템의 입력 및 출력"
+  },
+  {
+    "line_number": 68,
+    "section": "적합한 머신러닝 유형 선택",
+    "kind": "figure",
+    "label": "그림 8.3",
+    "title": "이진 분류 모델의 입력-출력"
+  },
+  {
+    "line_number": 90,
+    "section": "광고",
+    "kind": "table",
+    "label": "표 8.1",
+    "title": "광고 데이터"
+  },
+  {
+    "line_number": 99,
+    "section": "사용자",
+    "kind": "table",
+    "label": "표 8.2",
+    "title": "사용자 데이터 스키마"
+  },
+  {
+    "line_number": 113,
+    "section": "사용자-광고 상호작용",
+    "kind": "table",
+    "label": "표 8.3",
+    "title": "사용자-광고 상호작용 데이터"
+  },
+  {
+    "line_number": 179,
+    "section": "사용자의 과거 상호작용(engagement) 통계",
+    "kind": "figure",
+    "label": "그림 8.5",
+    "title": "사용자 메타데이터 및 상호작용을 위한 피처 준비"
+  },
+  {
+    "line_number": 223,
+    "section": "피처 크로스는 어떻게 만드나?",
+    "kind": "figure",
+    "label": "그림 8.6",
+    "title": "국가와 언어라는 두 가지 피처의 교차점"
+  },
+  {
+    "line_number": 232,
+    "section": "피처 크로싱 + 로지스틱 회귀는 어떻게 사용하나?",
+    "kind": "figure",
+    "label": "그림 8.7",
+    "title": "원본 피처에서 수행된 피처 크로싱"
+  },
+  {
+    "line_number": 272,
+    "section": "피처 추출에 GBDT 사용",
+    "kind": "figure",
+    "label": "그림 8.8",
+    "title": "피처 추출에 GBDT 사용"
+  },
+  {
+    "line_number": 276,
+    "section": "피처 추출에 GBDT 사용",
+    "kind": "figure",
+    "label": "그림 8.9",
+    "title": "GBDT + 로지스틱 회귀 개요"
+  },
+  {
+    "line_number": 297,
+    "section": "신경망",
+    "kind": "figure",
+    "label": "그림 8.10",
+    "title": "신경망 아키텍처"
+  },
+  {
+    "line_number": 301,
+    "section": "신경망",
+    "kind": "figure",
+    "label": "그림 8.11",
+    "title": "임베딩 기반 신경망"
+  },
+  {
+    "line_number": 320,
+    "section": "DCN(Deep & Cross Network)",
+    "kind": "figure",
+    "label": "그림 8.12",
+    "title": "DCN 아키텍처"
+  },
+  {
+    "line_number": 340,
+    "section": "Factorization Machines(FM)",
+    "kind": "figure",
+    "label": "그림 8.13",
+    "title": "행렬 인수분해 아키텍처"
+  },
+  {
+    "line_number": 350,
+    "section": "DeepFM(Deep Factorization Machines)",
+    "kind": "figure",
+    "label": "그림 8.14",
+    "title": "DeepFM 개요"
+  },
+  {
+    "line_number": 370,
+    "section": "데이터세트 구성",
+    "kind": "figure",
+    "label": "그림 8.15",
+    "title": "구축된 데이터세트"
+  },
+  {
+    "line_number": 411,
+    "section": "NCE(normalized cross-entropy)",
+    "kind": "figure",
+    "label": "그림 8.17",
+    "title": "모델 A에 대한 NCE 계산"
+  },
+  {
+    "line_number": 452,
+    "section": "서빙",
+    "kind": "figure",
+    "label": "그림 8.18",
+    "title": "머신러닝 시스템 설계"
+  }
+]

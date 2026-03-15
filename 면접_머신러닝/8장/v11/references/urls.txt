@@ -1,0 +1,16 @@
+https://arxiv.org/pdf/1907.06558.pdf
+https://advertising.amazon.com/library/guides/what-is-adtech
+https://arxiv.org/pdf/2002.05709.pdf
+https://developers.google.com/machine-learning/crashcourse/feature-crosses/video-lecture
+https://towardsdatascience.com/featuregeneration-with-gradient-boosted-decision-trees-21d4946d6ab5
+https://arxiv.org/pdf/1708.05123.pdf
+https://arxiv.org/pdf/2008.13535.pdf
+https://www.kdd.org/kdd2016/papers/files/adf0975-shanA.pdf
+https://www.jefkine.com/recsys/2017/03/27/factorization-machines/
+https://d2l.ai/chapter_recommender-systems/deepfm.html
+https://www.youtube.com/watch?v=4Go5crRVyuU
+https://machinelearningmastery.com/dataleakage-machine-learning/
+https://www.linkedin.com/pulse/time-based-splitting-determining-train-test-data-come-manraj-chalokia/?trk=public_profile_article_view
+https://machinelearningmastery.com/calibrated-classification-model-in-scikit-learn/
+https://www.csie.ntu.edu.tw/~cjlin/papers/ffm.pdf
+https://www.cs.uic.edu/~liub/lifelong-learning/continual-learning.pdf

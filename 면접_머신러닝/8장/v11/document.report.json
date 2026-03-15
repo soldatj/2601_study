@@ -1,0 +1,18 @@
+{
+  "input_lines": 526,
+  "output_lines": 516,
+  "dropped_repeated_lines": 7,
+  "dropped_page_number_lines": 0,
+  "chapter_lines_promoted": 1,
+  "normalized_speaker_lines": 14,
+  "merged_paragraphs": 3,
+  "attached_continuations": 4,
+  "mixed_list_items_normalized": 1,
+  "ocr_corrections_applied": 74,
+  "prose_fixes_applied": 33,
+  "reference_lines_normalized": 6,
+  "repeated_candidates": [
+    "## - Machine Learning",
+    "#### - Machine Learning"
+  ]
+}

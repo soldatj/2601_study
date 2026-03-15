@@ -1,0 +1,374 @@
+[
+  {
+    "line_number": 1,
+    "level": 1,
+    "title": "8장",
+    "slug": "8장"
+  },
+  {
+    "line_number": 4,
+    "level": 2,
+    "title": "소셜 플랫폼 광고 클릭 예측",
+    "slug": "소셜-플랫폼-광고-클릭-예측"
+  },
+  {
+    "line_number": 6,
+    "level": 2,
+    "title": "소개",
+    "slug": "소개"
+  },
+  {
+    "line_number": 14,
+    "level": 2,
+    "title": "요구사항 명확화",
+    "slug": "요구사항-명확화"
+  },
+  {
+    "line_number": 52,
+    "level": 1,
+    "title": "머신러닝 작업으로 문제를 구조화",
+    "slug": "머신러닝-작업으로-문제를-구조화"
+  },
+  {
+    "line_number": 54,
+    "level": 1,
+    "title": "머신러닝 목표 정의",
+    "slug": "머신러닝-목표-정의"
+  },
+  {
+    "line_number": 58,
+    "level": 1,
+    "title": "시스템의 입력 및 출력 지정",
+    "slug": "시스템의-입력-및-출력-지정"
+  },
+  {
+    "line_number": 64,
+    "level": 2,
+    "title": "적합한 머신러닝 유형 선택",
+    "slug": "적합한-머신러닝-유형-선택"
+  },
+  {
+    "line_number": 70,
+    "level": 1,
+    "title": "데이터 준비",
+    "slug": "데이터-준비"
+  },
+  {
+    "line_number": 72,
+    "level": 2,
+    "title": "데이터 엔지니어링",
+    "slug": "데이터-엔지니어링"
+  },
+  {
+    "line_number": 80,
+    "level": 3,
+    "title": "광고",
+    "slug": "광고"
+  },
+  {
+    "line_number": 92,
+    "level": 4,
+    "title": "사용자",
+    "slug": "사용자"
+  },
+  {
+    "line_number": 101,
+    "level": 3,
+    "title": "사용자-광고 상호작용",
+    "slug": "사용자-광고-상호작용"
+  },
+  {
+    "line_number": 115,
+    "level": 1,
+    "title": "피처 엔지니어링",
+    "slug": "피처-엔지니어링"
+  },
+  {
+    "line_number": 119,
+    "level": 2,
+    "title": "광고 피처",
+    "slug": "광고-피처"
+  },
+  {
+    "line_number": 130,
+    "level": 4,
+    "title": "ID",
+    "slug": "id"
+  },
+  {
+    "line_number": 138,
+    "level": 3,
+    "title": "이미지/동영상",
+    "slug": "이미지-동영상"
+  },
+  {
+    "line_number": 144,
+    "level": 2,
+    "title": "광고 범주 및 하위 범주",
+    "slug": "광고-범주-및-하위-범주"
+  },
+  {
+    "line_number": 151,
+    "level": 4,
+    "title": "노출수 및 클릭 수",
+    "slug": "노출수-및-클릭-수"
+  },
+  {
+    "line_number": 157,
+    "level": 3,
+    "title": "사용자 피처",
+    "slug": "사용자-피처"
+  },
+  {
+    "line_number": 164,
+    "level": 4,
+    "title": "클릭한 광고",
+    "slug": "클릭한-광고"
+  },
+  {
+    "line_number": 172,
+    "level": 1,
+    "title": "사용자의 과거 상호작용(engagement) 통계",
+    "slug": "사용자의-과거-상호작용-engagement-통계"
+  },
+  {
+    "line_number": 183,
+    "level": 1,
+    "title": "모델 개발",
+    "slug": "모델-개발"
+  },
+  {
+    "line_number": 185,
+    "level": 1,
+    "title": "모델 선택",
+    "slug": "모델-선택"
+  },
+  {
+    "line_number": 198,
+    "level": 3,
+    "title": "로지스틱 회귀",
+    "slug": "로지스틱-회귀"
+  },
+  {
+    "line_number": 211,
+    "level": 1,
+    "title": "피처 크로싱 + 로지스틱 회귀",
+    "slug": "피처-크로싱-로지스틱-회귀"
+  },
+  {
+    "line_number": 215,
+    "level": 1,
+    "title": "피처 크로싱이란 무엇인가?",
+    "slug": "피처-크로싱이란-무엇인가"
+  },
+  {
+    "line_number": 219,
+    "level": 1,
+    "title": "피처 크로스는 어떻게 만드나?",
+    "slug": "피처-크로스는-어떻게-만드나"
+  },
+  {
+    "line_number": 225,
+    "level": 2,
+    "title": "피처 크로싱 + 로지스틱 회귀는 어떻게 사용하나?",
+    "slug": "피처-크로싱-로지스틱-회귀는-어떻게-사용하나"
+  },
+  {
+    "line_number": 244,
+    "level": 1,
+    "title": "그레디언트 부스트 결정 트리(GBDT)",
+    "slug": "그레디언트-부스트-결정-트리-gbdt"
+  },
+  {
+    "line_number": 248,
+    "level": 1,
+    "title": "장점",
+    "slug": "장점"
+  },
+  {
+    "line_number": 252,
+    "level": 4,
+    "title": "단점",
+    "slug": "단점"
+  },
+  {
+    "line_number": 257,
+    "level": 4,
+    "title": "GBDT + 로지스틱 회귀",
+    "slug": "gbdt-로지스틱-회귀"
+  },
+  {
+    "line_number": 264,
+    "level": 1,
+    "title": "피처 선택에 GBDT 사용",
+    "slug": "피처-선택에-gbdt-사용"
+  },
+  {
+    "line_number": 268,
+    "level": 2,
+    "title": "피처 추출에 GBDT 사용",
+    "slug": "피처-추출에-gbdt-사용"
+  },
+  {
+    "line_number": 280,
+    "level": 4,
+    "title": "장점",
+    "slug": "장점-2"
+  },
+  {
+    "line_number": 284,
+    "level": 4,
+    "title": "단점",
+    "slug": "단점-2"
+  },
+  {
+    "line_number": 289,
+    "level": 2,
+    "title": "신경망",
+    "slug": "신경망"
+  },
+  {
+    "line_number": 309,
+    "level": 2,
+    "title": "DCN(Deep & Cross Network)",
+    "slug": "dcn-deep-cross-network"
+  },
+  {
+    "line_number": 324,
+    "level": 2,
+    "title": "Factorization Machines(FM)",
+    "slug": "factorization-machines-fm"
+  },
+  {
+    "line_number": 342,
+    "level": 2,
+    "title": "DeepFM(Deep Factorization Machines)",
+    "slug": "deepfm-deep-factorization-machines"
+  },
+  {
+    "line_number": 354,
+    "level": 2,
+    "title": "모델 훈련",
+    "slug": "모델-훈련"
+  },
+  {
+    "line_number": 356,
+    "level": 2,
+    "title": "데이터세트 구성",
+    "slug": "데이터세트-구성"
+  },
+  {
+    "line_number": 374,
+    "level": 3,
+    "title": "손실 함수 선택",
+    "slug": "손실-함수-선택"
+  },
+  {
+    "line_number": 378,
+    "level": 1,
+    "title": "평가",
+    "slug": "평가"
+  },
+  {
+    "line_number": 380,
+    "level": 3,
+    "title": "오프라인 지표",
+    "slug": "오프라인-지표"
+  },
+  {
+    "line_number": 387,
+    "level": 4,
+    "title": "크로스 엔트로피(CE)",
+    "slug": "크로스-엔트로피-ce"
+  },
+  {
+    "line_number": 401,
+    "level": 1,
+    "title": "NCE(normalized cross-entropy)",
+    "slug": "nce-normalized-cross-entropy"
+  },
+  {
+    "line_number": 413,
+    "level": 3,
+    "title": "온라인 지표",
+    "slug": "온라인-지표"
+  },
+  {
+    "line_number": 422,
+    "level": 4,
+    "title": "CTR",
+    "slug": "ctr"
+  },
+  {
+    "line_number": 428,
+    "level": 3,
+    "title": "전환율",
+    "slug": "전환율"
+  },
+  {
+    "line_number": 434,
+    "level": 3,
+    "title": "수익 증가율",
+    "slug": "수익-증가율"
+  },
+  {
+    "line_number": 438,
+    "level": 4,
+    "title": "숨기기 비율",
+    "slug": "숨기기-비율"
+  },
+  {
+    "line_number": 444,
+    "level": 1,
+    "title": "서빙",
+    "slug": "서빙"
+  },
+  {
+    "line_number": 454,
+    "level": 1,
+    "title": "데이터 준비 파이프라인",
+    "slug": "데이터-준비-파이프라인"
+  },
+  {
+    "line_number": 463,
+    "level": 2,
+    "title": "배치 피처 계산",
+    "slug": "배치-피처-계산"
+  },
+  {
+    "line_number": 467,
+    "level": 2,
+    "title": "온라인 피처 계산",
+    "slug": "온라인-피처-계산"
+  },
+  {
+    "line_number": 471,
+    "level": 1,
+    "title": "지속적인 학습 파이프라인",
+    "slug": "지속적인-학습-파이프라인"
+  },
+  {
+    "line_number": 475,
+    "level": 1,
+    "title": "예측 파이프라인",
+    "slug": "예측-파이프라인"
+  },
+  {
+    "line_number": 485,
+    "level": 2,
+    "title": "추가 논의 주제",
+    "slug": "추가-논의-주제"
+  },
+  {
+    "line_number": 497,
+    "level": 2,
+    "title": "요약",
+    "slug": "요약"
+  },
+  {
+    "line_number": 499,
+    "level": 2,
+    "title": "참고 문헌",
+    "slug": "참고-문헌"
+  }
+]

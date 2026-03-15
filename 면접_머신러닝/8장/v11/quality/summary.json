@@ -1,0 +1,11 @@
+{
+  "score": 79,
+  "table_count": 4,
+  "caption_count": 19,
+  "equation_count": 5,
+  "reference_count": 16,
+  "heading_count": 62,
+  "suspicious_line_count": 7,
+  "dominant_suspicious_category": "split_verb",
+  "status": "review_needed"
+}

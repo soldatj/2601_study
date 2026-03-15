@@ -1,0 +1,1323 @@
+{
+  "schema_version": 2,
+  "suffix": "v11",
+  "generated_at": "2026-03-16T07:59:59",
+  "run_id": "20260315-224541-full",
+  "source_markdown": "merged/document.cleaned.v11.md",
+  "table_count": 4,
+  "caption_count": 19,
+  "equation_count": 5,
+  "reference_count": 16,
+  "heading_count": 62,
+  "section_count": 60,
+  "suspicious_line_count": 7,
+  "outputs": {
+    "markdown": "exports/v11/document.md",
+    "linked_markdown": "exports/v11/document.linked.md",
+    "annotated_markdown": "exports/v11/document.annotated.md",
+    "review_markdown": "exports/v11/document.review.md",
+    "plain_text": "exports/v11/document.txt",
+    "table_index_csv": "exports/v11/tables/index.csv",
+    "table_index_json": "exports/v11/tables/index.json",
+    "table_by_kind_json": "exports/v11/tables/by_kind.json",
+    "caption_index_csv": "exports/v11/captions/index.csv",
+    "caption_index_json": "exports/v11/captions/index.json",
+    "caption_index_markdown": "exports/v11/captions/index.md",
+    "figure_caption_index_json": "exports/v11/captions/figures.json",
+    "table_caption_index_json": "exports/v11/captions/tables.json",
+    "equation_index_csv": "exports/v11/equations/index.csv",
+    "equation_index_json": "exports/v11/equations/index.json",
+    "equation_index_markdown": "exports/v11/equations/index.md",
+    "equation_latex_text": "exports/v11/equations/latex.txt",
+    "reference_index_csv": "exports/v11/references/index.csv",
+    "reference_index_json": "exports/v11/references/index.json",
+    "reference_index_markdown": "exports/v11/references/index.md",
+    "reference_urls_text": "exports/v11/references/urls.txt",
+    "heading_index_csv": "exports/v11/headings/index.csv",
+    "heading_index_json": "exports/v11/headings/index.json",
+    "heading_index_markdown": "exports/v11/headings/index.md",
+    "heading_level_counts_json": "exports/v11/headings/level_counts.json",
+    "section_index_json": "exports/v11/sections/index.json",
+    "section_index_markdown": "exports/v11/sections/index.md",
+    "suspicious_lines_json": "exports/v11/quality/suspicious_lines.json",
+    "suspicious_lines_markdown": "exports/v11/quality/suspicious_lines.md",
+    "suspicious_category_counts_json": "exports/v11/quality/category_counts.json",
+    "quality_summary_json": "exports/v11/quality/summary.json",
+    "quality_summary_markdown": "exports/v11/quality/summary.md",
+    "report": "exports/v11/document.report.json"
+  },
+  "tables": [
+    {
+      "index": 1,
+      "kind": "data",
+      "section": "광고",
+      "start_line": 84,
+      "end_line": 88,
+      "columns": [
+        "광고 ID",
+        "광고주 ID",
+        "광고 그룹 ID",
+        "캠페인 ID",
+        "범주",
+        "하위 범주",
+        "이미지 또는 동영상(URL 예시)"
+      ],
+      "row_count": 3,
+      "markdown": "exports/v11/tables/table-001.md",
+      "csv": "exports/v11/tables/table-001.csv",
+      "html": "exports/v11/tables/table-001.html"
+    },
+    {
+      "index": 2,
+      "kind": "schema_only",
+      "section": "사용자",
+      "start_line": 96,
+      "end_line": 97,
+      "columns": [
+        "ID",
+        "Username",
+        "Age",
+        "Gender",
+        "City",
+        "Country",
+        "Language",
+        "Time zone"
+      ],
+      "row_count": 0,
+      "markdown": "exports/v11/tables/table-002.md",
+      "csv": "exports/v11/tables/table-002.csv",
+      "html": "exports/v11/tables/table-002.html"
+    },
+    {
+      "index": 3,
+      "kind": "data",
+      "section": "사용자-광고 상호작용",
+      "start_line": 105,
+      "end_line": 111,
+      "columns": [
+        "사용자 ID",
+        "광고 ID",
+        "상호작용 유형",
+        "체류 시간 <sup>1</sup>",
+        "위치(위도, 경도)",
+        "타임스탬프"
+      ],
+      "row_count": 4,
+      "markdown": "exports/v11/tables/table-003.md",
+      "csv": "exports/v11/tables/table-003.csv",
+      "html": "exports/v11/tables/table-003.html"
+    },
+    {
+      "index": 4,
+      "kind": "data",
+      "section": "데이터세트 구성",
+      "start_line": 365,
+      "end_line": 368,
+      "columns": [
+        "#",
+        "사용자 및 상호작용 피처",
+        "광고 피처",
+        "라벨"
+      ],
+      "row_count": 2,
+      "markdown": "exports/v11/tables/table-004.md",
+      "csv": "exports/v11/tables/table-004.csv",
+      "html": "exports/v11/tables/table-004.html"
+    }
+  ],
+  "captions": [
+    {
+      "line_number": 10,
+      "section": "소개",
+      "kind": "figure",
+      "label": "그림 8.1",
+      "title": "사용자 타임라인에 게재되는 광고주의 광고"
+    },
+    {
+      "line_number": 62,
+      "section": "시스템의 입력 및 출력 지정",
+      "kind": "figure",
+      "label": "그림 8.2",
+      "title": "광고 클릭 예측 시스템의 입력 및 출력"
+    },
+    {
+      "line_number": 68,
+      "section": "적합한 머신러닝 유형 선택",
+      "kind": "figure",
+      "label": "그림 8.3",
+      "title": "이진 분류 모델의 입력-출력"
+    },
+    {
+      "line_number": 90,
+      "section": "광고",
+      "kind": "table",
+      "label": "표 8.1",
+      "title": "광고 데이터"
+    },
+    {
+      "line_number": 99,
+      "section": "사용자",
+      "kind": "table",
+      "label": "표 8.2",
+      "title": "사용자 데이터 스키마"
+    },
+    {
+      "line_number": 113,
+      "section": "사용자-광고 상호작용",
+      "kind": "table",
+      "label": "표 8.3",
+      "title": "사용자-광고 상호작용 데이터"
+    },
+    {
+      "line_number": 179,
+      "section": "사용자의 과거 상호작용(engagement) 통계",
+      "kind": "figure",
+      "label": "그림 8.5",
+      "title": "사용자 메타데이터 및 상호작용을 위한 피처 준비"
+    },
+    {
+      "line_number": 223,
+      "section": "피처 크로스는 어떻게 만드나?",
+      "kind": "figure",
+      "label": "그림 8.6",
+      "title": "국가와 언어라는 두 가지 피처의 교차점"
+    },
+    {
+      "line_number": 232,
+      "section": "피처 크로싱 + 로지스틱 회귀는 어떻게 사용하나?",
+      "kind": "figure",
+      "label": "그림 8.7",
+      "title": "원본 피처에서 수행된 피처 크로싱"
+    },
+    {
+      "line_number": 272,
+      "section": "피처 추출에 GBDT 사용",
+      "kind": "figure",
+      "label": "그림 8.8",
+      "title": "피처 추출에 GBDT 사용"
+    },
+    {
+      "line_number": 276,
+      "section": "피처 추출에 GBDT 사용",
+      "kind": "figure",
+      "label": "그림 8.9",
+      "title": "GBDT + 로지스틱 회귀 개요"
+    },
+    {
+      "line_number": 297,
+      "section": "신경망",
+      "kind": "figure",
+      "label": "그림 8.10",
+      "title": "신경망 아키텍처"
+    },
+    {
+      "line_number": 301,
+      "section": "신경망",
+      "kind": "figure",
+      "label": "그림 8.11",
+      "title": "임베딩 기반 신경망"
+    },
+    {
+      "line_number": 320,
+      "section": "DCN(Deep & Cross Network)",
+      "kind": "figure",
+      "label": "그림 8.12",
+      "title": "DCN 아키텍처"
+    },
+    {
+      "line_number": 340,
+      "section": "Factorization Machines(FM)",
+      "kind": "figure",
+      "label": "그림 8.13",
+      "title": "행렬 인수분해 아키텍처"
+    },
+    {
+      "line_number": 350,
+      "section": "DeepFM(Deep Factorization Machines)",
+      "kind": "figure",
+      "label": "그림 8.14",
+      "title": "DeepFM 개요"
+    },
+    {
+      "line_number": 370,
+      "section": "데이터세트 구성",
+      "kind": "figure",
+      "label": "그림 8.15",
+      "title": "구축된 데이터세트"
+    },
+    {
+      "line_number": 411,
+      "section": "NCE(normalized cross-entropy)",
+      "kind": "figure",
+      "label": "그림 8.17",
+      "title": "모델 A에 대한 NCE 계산"
+    },
+    {
+      "line_number": 452,
+      "section": "서빙",
+      "kind": "figure",
+      "label": "그림 8.18",
+      "title": "머신러닝 시스템 설계"
+    }
+  ],
+  "equations": [
+    {
+      "index": 1,
+      "line_number": 330,
+      "section": "Factorization Machines(FM)",
+      "expression": "\\hat{y}(x) = w_0 + \\sum_i w_i x_i + \\sum_i \\sum_j \\langle v_i, v_j \\rangle x_i x_j"
+    },
+    {
+      "index": 2,
+      "line_number": 336,
+      "section": "Factorization Machines(FM)",
+      "expression": "\\hat{y}(x) = \\underbrace{w_0 + \\sum_i w_i x_i}_{\\text{로지스틱 회귀}} + \\underbrace{\\sum_i \\sum_j \\langle v_i, v_j \\rangle x_i x_j}_{\\text{쌍별 상호작용}}"
+    },
+    {
+      "index": 3,
+      "line_number": 391,
+      "section": "크로스 엔트로피(CE)",
+      "expression": "H(p,q) = -\\sum_{c=1}^{C} p_c \\log q_c"
+    },
+    {
+      "index": 4,
+      "line_number": 397,
+      "section": "크로스 엔트로피(CE)",
+      "expression": "H(p,q) = -\\sum_{i} p_{i} \\log q_{i} = -\\sum_{i} \\left( y_{i} \\log \\hat{y}_{i} + (1-y_{i}) \\log (1-\\hat{y}_{i}) \\right)"
+    },
+    {
+      "index": 5,
+      "line_number": 407,
+      "section": "NCE(normalized cross-entropy)",
+      "expression": "NCE = \\frac{CE(머신러닝 모델)}{CE(단순 기준선)}"
+    }
+  ],
+  "references": [
+    {
+      "index": 1,
+      "line_number": 501,
+      "section": "참고 문헌",
+      "text": "Addressing delayed feedback, https://arxiv.org/pdf/1907.06558.pdf",
+      "url": "https://arxiv.org/pdf/1907.06558.pdf"
+    },
+    {
+      "index": 2,
+      "line_number": 502,
+      "section": "참고 문헌",
+      "text": "AdTech basics, https://advertising.amazon.com/library/guides/what-is-adtech",
+      "url": "https://advertising.amazon.com/library/guides/what-is-adtech"
+    },
+    {
+      "index": 3,
+      "line_number": 503,
+      "section": "참고 문헌",
+      "text": "SimCLR paper, https://arxiv.org/pdf/2002.05709.pdf",
+      "url": "https://arxiv.org/pdf/2002.05709.pdf"
+    },
+    {
+      "index": 4,
+      "line_number": 504,
+      "section": "참고 문헌",
+      "text": "Feature crossing, https://developers.google.com/machine-learning/crashcourse/feature-crosses/video-lecture",
+      "url": "https://developers.google.com/machine-learning/crashcourse/feature-crosses/video-lecture"
+    },
+    {
+      "index": 5,
+      "line_number": 505,
+      "section": "참고 문헌",
+      "text": "Feature extraction with GBDT, https://towardsdatascience.com/featuregeneration-with-gradient-boosted-decision-trees-21d4946d6ab5",
+      "url": "https://towardsdatascience.com/featuregeneration-with-gradient-boosted-decision-trees-21d4946d6ab5"
+    },
+    {
+      "index": 6,
+      "line_number": 506,
+      "section": "참고 문헌",
+      "text": "DCN paper, https://arxiv.org/pdf/1708.05123.pdf",
+      "url": "https://arxiv.org/pdf/1708.05123.pdf"
+    },
+    {
+      "index": 7,
+      "line_number": 507,
+      "section": "참고 문헌",
+      "text": "DCN V2 paper, https://arxiv.org/pdf/2008.13535.pdf",
+      "url": "https://arxiv.org/pdf/2008.13535.pdf"
+    },
+    {
+      "index": 8,
+      "line_number": 508,
+      "section": "참고 문헌",
+      "text": "Microsoft's deep crossing network paper, https://www.kdd.org/kdd2016/papers/files/adf0975-shanA.pdf",
+      "url": "https://www.kdd.org/kdd2016/papers/files/adf0975-shanA.pdf"
+    },
+    {
+      "index": 9,
+      "line_number": 509,
+      "section": "참고 문헌",
+      "text": "Factorization Machines, https://www.jefkine.com/recsys/2017/03/27/factorization-machines/",
+      "url": "https://www.jefkine.com/recsys/2017/03/27/factorization-machines/"
+    },
+    {
+      "index": 10,
+      "line_number": 510,
+      "section": "참고 문헌",
+      "text": "Deep Factorization Machines, https://d2l.ai/chapter\\_recommender-systems/deepfm.html",
+      "url": "https://d2l.ai/chapter_recommender-systems/deepfm.html"
+    },
+    {
+      "index": 11,
+      "line_number": 511,
+      "section": "참고 문헌",
+      "text": "Kaggle's winning solution in ad click prediction, https://www.youtube.com/watch?v=4Go5crRVyuU",
+      "url": "https://www.youtube.com/watch?v=4Go5crRVyuU"
+    },
+    {
+      "index": 12,
+      "line_number": 512,
+      "section": "참고 문헌",
+      "text": "Data leakage in ML systems, https://machinelearningmastery.com/dataleakage-machine-learning/",
+      "url": "https://machinelearningmastery.com/dataleakage-machine-learning/"
+    },
+    {
+      "index": 13,
+      "line_number": 513,
+      "section": "참고 문헌",
+      "text": "Time-based dataset splitting, https://www.linkedin.com/pulse/time-based-splitting-determining-train-test-data-come-manraj-chalokia/?trk=public\\_profile\\_article\\_view",
+      "url": "https://www.linkedin.com/pulse/time-based-splitting-determining-train-test-data-come-manraj-chalokia/?trk=public_profile_article_view"
+    },
+    {
+      "index": 14,
+      "line_number": 514,
+      "section": "참고 문헌",
+      "text": "Model calibration, https://machinelearningmastery.com/calibrated-classification-model-in-scikit-learn/",
+      "url": "https://machinelearningmastery.com/calibrated-classification-model-in-scikit-learn/"
+    },
+    {
+      "index": 15,
+      "line_number": 515,
+      "section": "참고 문헌",
+      "text": "Field-aware Factorization Machines, https://www.csie.ntu.edu.tw/~cjlin/papers/ffm.pdf",
+      "url": "https://www.csie.ntu.edu.tw/~cjlin/papers/ffm.pdf"
+    },
+    {
+      "index": 16,
+      "line_number": 516,
+      "section": "참고 문헌",
+      "text": "Catastrophic forgetting problem in continual learning, https://www.cs.uic.edu/~liub/lifelong-learning/continual-learning.pdf",
+      "url": "https://www.cs.uic.edu/~liub/lifelong-learning/continual-learning.pdf"
+    }
+  ],
+  "headings": [
+    {
+      "line_number": 1,
+      "level": 1,
+      "title": "8장",
+      "slug": "8장"
+    },
+    {
+      "line_number": 4,
+      "level": 2,
+      "title": "소셜 플랫폼 광고 클릭 예측",
+      "slug": "소셜-플랫폼-광고-클릭-예측"
+    },
+    {
+      "line_number": 6,
+      "level": 2,
+      "title": "소개",
+      "slug": "소개"
+    },
+    {
+      "line_number": 14,
+      "level": 2,
+      "title": "요구사항 명확화",
+      "slug": "요구사항-명확화"
+    },
+    {
+      "line_number": 52,
+      "level": 1,
+      "title": "머신러닝 작업으로 문제를 구조화",
+      "slug": "머신러닝-작업으로-문제를-구조화"
+    },
+    {
+      "line_number": 54,
+      "level": 1,
+      "title": "머신러닝 목표 정의",
+      "slug": "머신러닝-목표-정의"
+    },
+    {
+      "line_number": 58,
+      "level": 1,
+      "title": "시스템의 입력 및 출력 지정",
+      "slug": "시스템의-입력-및-출력-지정"
+    },
+    {
+      "line_number": 64,
+      "level": 2,
+      "title": "적합한 머신러닝 유형 선택",
+      "slug": "적합한-머신러닝-유형-선택"
+    },
+    {
+      "line_number": 70,
+      "level": 1,
+      "title": "데이터 준비",
+      "slug": "데이터-준비"
+    },
+    {
+      "line_number": 72,
+      "level": 2,
+      "title": "데이터 엔지니어링",
+      "slug": "데이터-엔지니어링"
+    },
+    {
+      "line_number": 80,
+      "level": 3,
+      "title": "광고",
+      "slug": "광고"
+    },
+    {
+      "line_number": 92,
+      "level": 4,
+      "title": "사용자",
+      "slug": "사용자"
+    },
+    {
+      "line_number": 101,
+      "level": 3,
+      "title": "사용자-광고 상호작용",
+      "slug": "사용자-광고-상호작용"
+    },
+    {
+      "line_number": 115,
+      "level": 1,
+      "title": "피처 엔지니어링",
+      "slug": "피처-엔지니어링"
+    },
+    {
+      "line_number": 119,
+      "level": 2,
+      "title": "광고 피처",
+      "slug": "광고-피처"
+    },
+    {
+      "line_number": 130,
+      "level": 4,
+      "title": "ID",
+      "slug": "id"
+    },
+    {
+      "line_number": 138,
+      "level": 3,
+      "title": "이미지/동영상",
+      "slug": "이미지-동영상"
+    },
+    {
+      "line_number": 144,
+      "level": 2,
+      "title": "광고 범주 및 하위 범주",
+      "slug": "광고-범주-및-하위-범주"
+    },
+    {
+      "line_number": 151,
+      "level": 4,
+      "title": "노출수 및 클릭 수",
+      "slug": "노출수-및-클릭-수"
+    },
+    {
+      "line_number": 157,
+      "level": 3,
+      "title": "사용자 피처",
+      "slug": "사용자-피처"
+    },
+    {
+      "line_number": 164,
+      "level": 4,
+      "title": "클릭한 광고",
+      "slug": "클릭한-광고"
+    },
+    {
+      "line_number": 172,
+      "level": 1,
+      "title": "사용자의 과거 상호작용(engagement) 통계",
+      "slug": "사용자의-과거-상호작용-engagement-통계"
+    },
+    {
+      "line_number": 183,
+      "level": 1,
+      "title": "모델 개발",
+      "slug": "모델-개발"
+    },
+    {
+      "line_number": 185,
+      "level": 1,
+      "title": "모델 선택",
+      "slug": "모델-선택"
+    },
+    {
+      "line_number": 198,
+      "level": 3,
+      "title": "로지스틱 회귀",
+      "slug": "로지스틱-회귀"
+    },
+    {
+      "line_number": 211,
+      "level": 1,
+      "title": "피처 크로싱 + 로지스틱 회귀",
+      "slug": "피처-크로싱-로지스틱-회귀"
+    },
+    {
+      "line_number": 215,
+      "level": 1,
+      "title": "피처 크로싱이란 무엇인가?",
+      "slug": "피처-크로싱이란-무엇인가"
+    },
+    {
+      "line_number": 219,
+      "level": 1,
+      "title": "피처 크로스는 어떻게 만드나?",
+      "slug": "피처-크로스는-어떻게-만드나"
+    },
+    {
+      "line_number": 225,
+      "level": 2,
+      "title": "피처 크로싱 + 로지스틱 회귀는 어떻게 사용하나?",
+      "slug": "피처-크로싱-로지스틱-회귀는-어떻게-사용하나"
+    },
+    {
+      "line_number": 244,
+      "level": 1,
+      "title": "그레디언트 부스트 결정 트리(GBDT)",
+      "slug": "그레디언트-부스트-결정-트리-gbdt"
+    },
+    {
+      "line_number": 248,
+      "level": 1,
+      "title": "장점",
+      "slug": "장점"
+    },
+    {
+      "line_number": 252,
+      "level": 4,
+      "title": "단점",
+      "slug": "단점"
+    },
+    {
+      "line_number": 257,
+      "level": 4,
+      "title": "GBDT + 로지스틱 회귀",
+      "slug": "gbdt-로지스틱-회귀"
+    },
+    {
+      "line_number": 264,
+      "level": 1,
+      "title": "피처 선택에 GBDT 사용",
+      "slug": "피처-선택에-gbdt-사용"
+    },
+    {
+      "line_number": 268,
+      "level": 2,
+      "title": "피처 추출에 GBDT 사용",
+      "slug": "피처-추출에-gbdt-사용"
+    },
+    {
+      "line_number": 280,
+      "level": 4,
+      "title": "장점",
+      "slug": "장점-2"
+    },
+    {
+      "line_number": 284,
+      "level": 4,
+      "title": "단점",
+      "slug": "단점-2"
+    },
+    {
+      "line_number": 289,
+      "level": 2,
+      "title": "신경망",
+      "slug": "신경망"
+    },
+    {
+      "line_number": 309,
+      "level": 2,
+      "title": "DCN(Deep & Cross Network)",
+      "slug": "dcn-deep-cross-network"
+    },
+    {
+      "line_number": 324,
+      "level": 2,
+      "title": "Factorization Machines(FM)",
+      "slug": "factorization-machines-fm"
+    },
+    {
+      "line_number": 342,
+      "level": 2,
+      "title": "DeepFM(Deep Factorization Machines)",
+      "slug": "deepfm-deep-factorization-machines"
+    },
+    {
+      "line_number": 354,
+      "level": 2,
+      "title": "모델 훈련",
+      "slug": "모델-훈련"
+    },
+    {
+      "line_number": 356,
+      "level": 2,
+      "title": "데이터세트 구성",
+      "slug": "데이터세트-구성"
+    },
+    {
+      "line_number": 374,
+      "level": 3,
+      "title": "손실 함수 선택",
+      "slug": "손실-함수-선택"
+    },
+    {
+      "line_number": 378,
+      "level": 1,
+      "title": "평가",
+      "slug": "평가"
+    },
+    {
+      "line_number": 380,
+      "level": 3,
+      "title": "오프라인 지표",
+      "slug": "오프라인-지표"
+    },
+    {
+      "line_number": 387,
+      "level": 4,
+      "title": "크로스 엔트로피(CE)",
+      "slug": "크로스-엔트로피-ce"
+    },
+    {
+      "line_number": 401,
+      "level": 1,
+      "title": "NCE(normalized cross-entropy)",
+      "slug": "nce-normalized-cross-entropy"
+    },
+    {
+      "line_number": 413,
+      "level": 3,
+      "title": "온라인 지표",
+      "slug": "온라인-지표"
+    },
+    {
+      "line_number": 422,
+      "level": 4,
+      "title": "CTR",
+      "slug": "ctr"
+    },
+    {
+      "line_number": 428,
+      "level": 3,
+      "title": "전환율",
+      "slug": "전환율"
+    },
+    {
+      "line_number": 434,
+      "level": 3,
+      "title": "수익 증가율",
+      "slug": "수익-증가율"
+    },
+    {
+      "line_number": 438,
+      "level": 4,
+      "title": "숨기기 비율",
+      "slug": "숨기기-비율"
+    },
+    {
+      "line_number": 444,
+      "level": 1,
+      "title": "서빙",
+      "slug": "서빙"
+    },
+    {
+      "line_number": 454,
+      "level": 1,
+      "title": "데이터 준비 파이프라인",
+      "slug": "데이터-준비-파이프라인"
+    },
+    {
+      "line_number": 463,
+      "level": 2,
+      "title": "배치 피처 계산",
+      "slug": "배치-피처-계산"
+    },
+    {
+      "line_number": 467,
+      "level": 2,
+      "title": "온라인 피처 계산",
+      "slug": "온라인-피처-계산"
+    },
+    {
+      "line_number": 471,
+      "level": 1,
+      "title": "지속적인 학습 파이프라인",
+      "slug": "지속적인-학습-파이프라인"
+    },
+    {
+      "line_number": 475,
+      "level": 1,
+      "title": "예측 파이프라인",
+      "slug": "예측-파이프라인"
+    },
+    {
+      "line_number": 485,
+      "level": 2,
+      "title": "추가 논의 주제",
+      "slug": "추가-논의-주제"
+    },
+    {
+      "line_number": 497,
+      "level": 2,
+      "title": "요약",
+      "slug": "요약"
+    },
+    {
+      "line_number": 499,
+      "level": 2,
+      "title": "참고 문헌",
+      "slug": "참고-문헌"
+    }
+  ],
+  "heading_level_counts": {
+    "h1": 21,
+    "h2": 20,
+    "h3": 10,
+    "h4": 11
+  },
+  "sections": [
+    {
+      "section": "8장",
+      "heading_count": 1,
+      "table_count": 0,
+      "caption_count": 0,
+      "equation_count": 0,
+      "reference_count": 0
+    },
+    {
+      "section": "CTR",
+      "heading_count": 1,
+      "table_count": 0,
+      "caption_count": 0,
+      "equation_count": 0,
+      "reference_count": 0
+    },
+    {
+      "section": "DCN(Deep & Cross Network)",
+      "heading_count": 1,
+      "table_count": 0,
+      "caption_count": 1,
+      "equation_count": 0,
+      "reference_count": 0
+    },
+    {
+      "section": "DeepFM(Deep Factorization Machines)",
+      "heading_count": 1,
+      "table_count": 0,
+      "caption_count": 1,
+      "equation_count": 0,
+      "reference_count": 0
+    },
+    {
+      "section": "Factorization Machines(FM)",
+      "heading_count": 1,
+      "table_count": 0,
+      "caption_count": 1,
+      "equation_count": 2,
+      "reference_count": 0
+    },
+    {
+      "section": "GBDT + 로지스틱 회귀",
+      "heading_count": 1,
+      "table_count": 0,
+      "caption_count": 0,
+      "equation_count": 0,
+      "reference_count": 0
+    },
+    {
+      "section": "ID",
+      "heading_count": 1,
+      "table_count": 0,
+      "caption_count": 0,
+      "equation_count": 0,
+      "reference_count": 0
+    },
+    {
+      "section": "NCE(normalized cross-entropy)",
+      "heading_count": 1,
+      "table_count": 0,
+      "caption_count": 1,
+      "equation_count": 1,
+      "reference_count": 0
+    },
+    {
+      "section": "광고",
+      "heading_count": 1,
+      "table_count": 1,
+      "caption_count": 1,
+      "equation_count": 0,
+      "reference_count": 0
+    },
+    {
+      "section": "광고 범주 및 하위 범주",
+      "heading_count": 1,
+      "table_count": 0,
+      "caption_count": 0,
+      "equation_count": 0,
+      "reference_count": 0
+    },
+    {
+      "section": "광고 피처",
+      "heading_count": 1,
+      "table_count": 0,
+      "caption_count": 0,
+      "equation_count": 0,
+      "reference_count": 0
+    },
+    {
+      "section": "그레디언트 부스트 결정 트리(GBDT)",
+      "heading_count": 1,
+      "table_count": 0,
+      "caption_count": 0,
+      "equation_count": 0,
+      "reference_count": 0
+    },
+    {
+      "section": "노출수 및 클릭 수",
+      "heading_count": 1,
+      "table_count": 0,
+      "caption_count": 0,
+      "equation_count": 0,
+      "reference_count": 0
+    },
+    {
+      "section": "단점",
+      "heading_count": 2,
+      "table_count": 0,
+      "caption_count": 0,
+      "equation_count": 0,
+      "reference_count": 0
+    },
+    {
+      "section": "데이터 엔지니어링",
+      "heading_count": 1,
+      "table_count": 0,
+      "caption_count": 0,
+      "equation_count": 0,
+      "reference_count": 0
+    },
+    {
+      "section": "데이터 준비",
+      "heading_count": 1,
+      "table_count": 0,
+      "caption_count": 0,
+      "equation_count": 0,
+      "reference_count": 0
+    },
+    {
+      "section": "데이터 준비 파이프라인",
+      "heading_count": 1,
+      "table_count": 0,
+      "caption_count": 0,
+      "equation_count": 0,
+      "reference_count": 0
+    },
+    {
+      "section": "데이터세트 구성",
+      "heading_count": 1,
+      "table_count": 1,
+      "caption_count": 1,
+      "equation_count": 0,
+      "reference_count": 0
+    },
+    {
+      "section": "로지스틱 회귀",
+      "heading_count": 1,
+      "table_count": 0,
+      "caption_count": 0,
+      "equation_count": 0,
+      "reference_count": 0
+    },
+    {
+      "section": "머신러닝 목표 정의",
+      "heading_count": 1,
+      "table_count": 0,
+      "caption_count": 0,
+      "equation_count": 0,
+      "reference_count": 0
+    },
+    {
+      "section": "머신러닝 작업으로 문제를 구조화",
+      "heading_count": 1,
+      "table_count": 0,
+      "caption_count": 0,
+      "equation_count": 0,
+      "reference_count": 0
+    },
+    {
+      "section": "모델 개발",
+      "heading_count": 1,
+      "table_count": 0,
+      "caption_count": 0,
+      "equation_count": 0,
+      "reference_count": 0
+    },
+    {
+      "section": "모델 선택",
+      "heading_count": 1,
+      "table_count": 0,
+      "caption_count": 0,
+      "equation_count": 0,
+      "reference_count": 0
+    },
+    {
+      "section": "모델 훈련",
+      "heading_count": 1,
+      "table_count": 0,
+      "caption_count": 0,
+      "equation_count": 0,
+      "reference_count": 0
+    },
+    {
+      "section": "배치 피처 계산",
+      "heading_count": 1,
+      "table_count": 0,
+      "caption_count": 0,
+      "equation_count": 0,
+      "reference_count": 0
+    },
+    {
+      "section": "사용자",
+      "heading_count": 1,
+      "table_count": 1,
+      "caption_count": 1,
+      "equation_count": 0,
+      "reference_count": 0
+    },
+    {
+      "section": "사용자 피처",
+      "heading_count": 1,
+      "table_count": 0,
+      "caption_count": 0,
+      "equation_count": 0,
+      "reference_count": 0
+    },
+    {
+      "section": "사용자-광고 상호작용",
+      "heading_count": 1,
+      "table_count": 1,
+      "caption_count": 1,
+      "equation_count": 0,
+      "reference_count": 0
+    },
+    {
+      "section": "사용자의 과거 상호작용(engagement) 통계",
+      "heading_count": 1,
+      "table_count": 0,
+      "caption_count": 1,
+      "equation_count": 0,
+      "reference_count": 0
+    },
+    {
+      "section": "서빙",
+      "heading_count": 1,
+      "table_count": 0,
+      "caption_count": 1,
+      "equation_count": 0,
+      "reference_count": 0
+    },
+    {
+      "section": "소개",
+      "heading_count": 1,
+      "table_count": 0,
+      "caption_count": 1,
+      "equation_count": 0,
+      "reference_count": 0
+    },
+    {
+      "section": "소셜 플랫폼 광고 클릭 예측",
+      "heading_count": 1,
+      "table_count": 0,
+      "caption_count": 0,
+      "equation_count": 0,
+      "reference_count": 0
+    },
+    {
+      "section": "손실 함수 선택",
+      "heading_count": 1,
+      "table_count": 0,
+      "caption_count": 0,
+      "equation_count": 0,
+      "reference_count": 0
+    },
+    {
+      "section": "수익 증가율",
+      "heading_count": 1,
+      "table_count": 0,
+      "caption_count": 0,
+      "equation_count": 0,
+      "reference_count": 0
+    },
+    {
+      "section": "숨기기 비율",
+      "heading_count": 1,
+      "table_count": 0,
+      "caption_count": 0,
+      "equation_count": 0,
+      "reference_count": 0
+    },
+    {
+      "section": "시스템의 입력 및 출력 지정",
+      "heading_count": 1,
+      "table_count": 0,
+      "caption_count": 1,
+      "equation_count": 0,
+      "reference_count": 0
+    },
+    {
+      "section": "신경망",
+      "heading_count": 1,
+      "table_count": 0,
+      "caption_count": 2,
+      "equation_count": 0,
+      "reference_count": 0
+    },
+    {
+      "section": "예측 파이프라인",
+      "heading_count": 1,
+      "table_count": 0,
+      "caption_count": 0,
+      "equation_count": 0,
+      "reference_count": 0
+    },
+    {
+      "section": "오프라인 지표",
+      "heading_count": 1,
+      "table_count": 0,
+      "caption_count": 0,
+      "equation_count": 0,
+      "reference_count": 0
+    },
+    {
+      "section": "온라인 지표",
+      "heading_count": 1,
+      "table_count": 0,
+      "caption_count": 0,
+      "equation_count": 0,
+      "reference_count": 0
+    },
+    {
+      "section": "온라인 피처 계산",
+      "heading_count": 1,
+      "table_count": 0,
+      "caption_count": 0,
+      "equation_count": 0,
+      "reference_count": 0
+    },
+    {
+      "section": "요구사항 명확화",
+      "heading_count": 1,
+      "table_count": 0,
+      "caption_count": 0,
+      "equation_count": 0,
+      "reference_count": 0
+    },
+    {
+      "section": "요약",
+      "heading_count": 1,
+      "table_count": 0,
+      "caption_count": 0,
+      "equation_count": 0,
+      "reference_count": 0
+    },
+    {
+      "section": "이미지/동영상",
+      "heading_count": 1,
+      "table_count": 0,
+      "caption_count": 0,
+      "equation_count": 0,
+      "reference_count": 0
+    },
+    {
+      "section": "장점",
+      "heading_count": 2,
+      "table_count": 0,
+      "caption_count": 0,
+      "equation_count": 0,
+      "reference_count": 0
+    },
+    {
+      "section": "적합한 머신러닝 유형 선택",
+      "heading_count": 1,
+      "table_count": 0,
+      "caption_count": 1,
+      "equation_count": 0,
+      "reference_count": 0
+    },
+    {
+      "section": "전환율",
+      "heading_count": 1,
+      "table_count": 0,
+      "caption_count": 0,
+      "equation_count": 0,
+      "reference_count": 0
+    },
+    {
+      "section": "지속적인 학습 파이프라인",
+      "heading_count": 1,
+      "table_count": 0,
+      "caption_count": 0,
+      "equation_count": 0,
+      "reference_count": 0
+    },
+    {
+      "section": "참고 문헌",
+      "heading_count": 1,
+      "table_count": 0,
+      "caption_count": 0,
+      "equation_count": 0,
+      "reference_count": 16
+    },
+    {
+      "section": "추가 논의 주제",
+      "heading_count": 1,
+      "table_count": 0,
+      "caption_count": 0,
+      "equation_count": 0,
+      "reference_count": 0
+    },
+    {
+      "section": "크로스 엔트로피(CE)",
+      "heading_count": 1,
+      "table_count": 0,
+      "caption_count": 0,
+      "equation_count": 2,
+      "reference_count": 0
+    },
+    {
+      "section": "클릭한 광고",
+      "heading_count": 1,
+      "table_count": 0,
+      "caption_count": 0,
+      "equation_count": 0,
+      "reference_count": 0
+    },
+    {
+      "section": "평가",
+      "heading_count": 1,
+      "table_count": 0,
+      "caption_count": 0,
+      "equation_count": 0,
+      "reference_count": 0
+    },
+    {
+      "section": "피처 선택에 GBDT 사용",
+      "heading_count": 1,
+      "table_count": 0,
+      "caption_count": 0,
+      "equation_count": 0,
+      "reference_count": 0
+    },
+    {
+      "section": "피처 엔지니어링",
+      "heading_count": 1,
+      "table_count": 0,
+      "caption_count": 0,
+      "equation_count": 0,
+      "reference_count": 0
+    },
+    {
+      "section": "피처 추출에 GBDT 사용",
+      "heading_count": 1,
+      "table_count": 0,
+      "caption_count": 2,
+      "equation_count": 0,
+      "reference_count": 0
+    },
+    {
+      "section": "피처 크로스는 어떻게 만드나?",
+      "heading_count": 1,
+      "table_count": 0,
+      "caption_count": 1,
+      "equation_count": 0,
+      "reference_count": 0
+    },
+    {
+      "section": "피처 크로싱 + 로지스틱 회귀",
+      "heading_count": 1,
+      "table_count": 0,
+      "caption_count": 0,
+      "equation_count": 0,
+      "reference_count": 0
+    },
+    {
+      "section": "피처 크로싱 + 로지스틱 회귀는 어떻게 사용하나?",
+      "heading_count": 1,
+      "table_count": 0,
+      "caption_count": 1,
+      "equation_count": 0,
+      "reference_count": 0
+    },
+    {
+      "section": "피처 크로싱이란 무엇인가?",
+      "heading_count": 1,
+      "table_count": 0,
+      "caption_count": 0,
+      "equation_count": 0,
+      "reference_count": 0
+    }
+  ],
+  "suspicious_lines": [
+    {
+      "line_number": 18,
+      "category": "split_verb",
+      "text": "지원자: 광고 예측 시스템을 구축하는 비즈니스 목표가 수익 극대화라고 가정 해도 되나요?"
+    },
+    {
+      "line_number": 26,
+      "category": "split_verb",
+      "text": "지원자: 시스템에서 한 사용자에게 동일한 광고를 두 번 이상 표시할 수 있 나요?"
+    },
+    {
+      "line_number": 32,
+      "category": "split_verb",
+      "text": "면접관: 좋은 질문입니다. 사용자가 마음에 들지 않는 광고를 숨길 수 있다고 가정해 보죠. '이 광고 차단'은 흥미로운 기능이지만 지금은 지원할 필 요가 없습니다."
+    },
+    {
+      "line_number": 48,
+      "category": "broken_sup",
+      "text": "면접관: 좋은 지적입니다. 실험에 따르면 모델 업데이트가 5분만 지연되어도 성능이 저하될 수 있습니다<sup>!!</sup>."
+    },
+    {
+      "line_number": 360,
+      "category": "split_verb",
+      "text": "- 포지티브 라벨: 사용자가 광고가 표시된 후 t초 이내에 광고를 클릭하면 데이터 포인트에 '포지티브'라는 라벨을 지정한다. t는 하이퍼파라미터이며 실험 을 통해 조정할 수 있다."
+    },
+    {
+      "line_number": 361,
+      "category": "split_verb",
+      "text": "- 네거티브 라벨: 사용자가 t초 이내에 광고를 클릭하지 않으면 해당 데이터 포 인트에 '네거티브'라는 라벨을 지정한다."
+    },
+    {
+      "line_number": 372,
+      "category": "split_verb",
+      "text": "모델이 새로운 데이터에 적응할 수 있도록 하려면 지속적으로 학습해야 한다. 따라서 새로운 상호작용을 사용하여 새로운 학습 데이터 포인트를 지속해 생 성해야 한다. 지속적인 학습에 대해서는 '서빙' 절에서 자세히 설명하겠다."
+    }
+  ],
+  "suspicious_category_counts": {
+    "split_verb": 6,
+    "broken_sup": 1
+  },
+  "quality_summary": {
+    "score": 79,
+    "table_count": 4,
+    "caption_count": 19,
+    "equation_count": 5,
+    "reference_count": 16,
+    "heading_count": 62,
+    "suspicious_line_count": 7,
+    "dominant_suspicious_category": "split_verb",
+    "status": "review_needed"
+  }
+}

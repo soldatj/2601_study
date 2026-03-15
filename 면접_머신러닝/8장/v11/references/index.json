@@ -1,0 +1,114 @@
+[
+  {
+    "index": 1,
+    "line_number": 501,
+    "section": "참고 문헌",
+    "text": "Addressing delayed feedback, https://arxiv.org/pdf/1907.06558.pdf",
+    "url": "https://arxiv.org/pdf/1907.06558.pdf"
+  },
+  {
+    "index": 2,
+    "line_number": 502,
+    "section": "참고 문헌",
+    "text": "AdTech basics, https://advertising.amazon.com/library/guides/what-is-adtech",
+    "url": "https://advertising.amazon.com/library/guides/what-is-adtech"
+  },
+  {
+    "index": 3,
+    "line_number": 503,
+    "section": "참고 문헌",
+    "text": "SimCLR paper, https://arxiv.org/pdf/2002.05709.pdf",
+    "url": "https://arxiv.org/pdf/2002.05709.pdf"
+  },
+  {
+    "index": 4,
+    "line_number": 504,
+    "section": "참고 문헌",
+    "text": "Feature crossing, https://developers.google.com/machine-learning/crashcourse/feature-crosses/video-lecture",
+    "url": "https://developers.google.com/machine-learning/crashcourse/feature-crosses/video-lecture"
+  },
+  {
+    "index": 5,
+    "line_number": 505,
+    "section": "참고 문헌",
+    "text": "Feature extraction with GBDT, https://towardsdatascience.com/featuregeneration-with-gradient-boosted-decision-trees-21d4946d6ab5",
+    "url": "https://towardsdatascience.com/featuregeneration-with-gradient-boosted-decision-trees-21d4946d6ab5"
+  },
+  {
+    "index": 6,
+    "line_number": 506,
+    "section": "참고 문헌",
+    "text": "DCN paper, https://arxiv.org/pdf/1708.05123.pdf",
+    "url": "https://arxiv.org/pdf/1708.05123.pdf"
+  },
+  {
+    "index": 7,
+    "line_number": 507,
+    "section": "참고 문헌",
+    "text": "DCN V2 paper, https://arxiv.org/pdf/2008.13535.pdf",
+    "url": "https://arxiv.org/pdf/2008.13535.pdf"
+  },
+  {
+    "index": 8,
+    "line_number": 508,
+    "section": "참고 문헌",
+    "text": "Microsoft's deep crossing network paper, https://www.kdd.org/kdd2016/papers/files/adf0975-shanA.pdf",
+    "url": "https://www.kdd.org/kdd2016/papers/files/adf0975-shanA.pdf"
+  },
+  {
+    "index": 9,
+    "line_number": 509,
+    "section": "참고 문헌",
+    "text": "Factorization Machines, https://www.jefkine.com/recsys/2017/03/27/factorization-machines/",
+    "url": "https://www.jefkine.com/recsys/2017/03/27/factorization-machines/"
+  },
+  {
+    "index": 10,
+    "line_number": 510,
+    "section": "참고 문헌",
+    "text": "Deep Factorization Machines, https://d2l.ai/chapter\\_recommender-systems/deepfm.html",
+    "url": "https://d2l.ai/chapter_recommender-systems/deepfm.html"
+  },
+  {
+    "index": 11,
+    "line_number": 511,
+    "section": "참고 문헌",
+    "text": "Kaggle's winning solution in ad click prediction, https://www.youtube.com/watch?v=4Go5crRVyuU",
+    "url": "https://www.youtube.com/watch?v=4Go5crRVyuU"
+  },
+  {
+    "index": 12,
+    "line_number": 512,
+    "section": "참고 문헌",
+    "text": "Data leakage in ML systems, https://machinelearningmastery.com/dataleakage-machine-learning/",
+    "url": "https://machinelearningmastery.com/dataleakage-machine-learning/"
+  },
+  {
+    "index": 13,
+    "line_number": 513,
+    "section": "참고 문헌",
+    "text": "Time-based dataset splitting, https://www.linkedin.com/pulse/time-based-splitting-determining-train-test-data-come-manraj-chalokia/?trk=public\\_profile\\_article\\_view",
+    "url": "https://www.linkedin.com/pulse/time-based-splitting-determining-train-test-data-come-manraj-chalokia/?trk=public_profile_article_view"
+  },
+  {
+    "index": 14,
+    "line_number": 514,
+    "section": "참고 문헌",
+    "text": "Model calibration, https://machinelearningmastery.com/calibrated-classification-model-in-scikit-learn/",
+    "url": "https://machinelearningmastery.com/calibrated-classification-model-in-scikit-learn/"
+  },
+  {
+    "index": 15,
+    "line_number": 515,
+    "section": "참고 문헌",
+    "text": "Field-aware Factorization Machines, https://www.csie.ntu.edu.tw/~cjlin/papers/ffm.pdf",
+    "url": "https://www.csie.ntu.edu.tw/~cjlin/papers/ffm.pdf"
+  },
+  {
+    "index": 16,
+    "line_number": 516,
+    "section": "참고 문헌",
+    "text": "Catastrophic forgetting problem in continual learning, https://www.cs.uic.edu/~liub/lifelong-learning/continual-learning.pdf",
+    "url": "https://www.cs.uic.edu/~liub/lifelong-learning/continual-learning.pdf"
+  }
+]

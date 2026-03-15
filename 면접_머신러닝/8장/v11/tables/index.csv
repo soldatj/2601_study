@@ -1,0 +1,5 @@
+index,kind,section,start_line,end_line,row_count,markdown,csv,html
+1,data,광고,84,88,3,exports/v11/tables/table-001.md,exports/v11/tables/table-001.csv,exports/v11/tables/table-001.html
+2,schema_only,사용자,96,97,0,exports/v11/tables/table-002.md,exports/v11/tables/table-002.csv,exports/v11/tables/table-002.html
+3,data,사용자-광고 상호작용,105,111,4,exports/v11/tables/table-003.md,exports/v11/tables/table-003.csv,exports/v11/tables/table-003.html
+4,data,데이터세트 구성,365,368,2,exports/v11/tables/table-004.md,exports/v11/tables/table-004.csv,exports/v11/tables/table-004.html
